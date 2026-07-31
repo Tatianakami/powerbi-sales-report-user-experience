@@ -62,7 +62,7 @@ docs/
 
 ## 🏠 Home Page
 
-> *(Insert screenshot below)*
+
 
 ![Home](assets/dashboard-home.png)
 
@@ -70,7 +70,7 @@ docs/
 
 ## 📊 Main Dashboard
 
-> *(Insert screenshot below)*
+
 
 ![Main Dashboard](assets/dashboard-principal.png)
 
@@ -78,7 +78,6 @@ docs/
 
 ## 📋 Sales Details
 
-> *(Insert screenshot below)*
 
 ![Sales Details](assets/dashboard-detalhes.png)
 
